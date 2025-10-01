@@ -47,10 +47,11 @@ body::before {
 
 /* Logo */
 .logo {
+ display: block;
   width: auto;
-  width: 220px;
+  max-width: 220px;
   height: auto;
-  margin-bottom: 20px;
+  margin: 0 auto 20px;
 }
 
 /* Titolo */
