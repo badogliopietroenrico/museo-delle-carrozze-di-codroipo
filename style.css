@@ -47,7 +47,9 @@ body::before {
 
 /* Logo */
 .logo {
+  width: auto;
   width: 220px;
+  height: auto;
   margin-bottom: 20px;
 }
 
